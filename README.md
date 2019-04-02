@@ -1,6 +1,2 @@
 # zhajiyy.github.io
-<<<<<<< HEAD
-blog 
-=======
-blog记录
->>>>>>> first commit
+博客 https://zhajiyy.github.io
